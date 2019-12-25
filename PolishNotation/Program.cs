@@ -5,7 +5,6 @@ namespace PolishNotation
 {
     internal class Program
     {
-        // AHMED YILMAZ 171213038
         public enum Operators
         {
             ADD = 0,
