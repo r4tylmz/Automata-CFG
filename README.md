@@ -5,7 +5,7 @@
 S->aX|aXX|b,X->a|b  (comma character used to separate to non-terminals)
 - S is a start point.
 - S is also non-terminal.
-* after the console input has been parsed by cfg-parser than the result (derivation for this language) shows on the console screen
+* After the console input has been parsed by cfg-parser than the result (derivation for this language) shows on the console screen
 * The cfg calculator also lists "repating words"
 
 
